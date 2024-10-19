@@ -1,4 +1,4 @@
-# Bikes-Projects-Dataset
+# Bikes-Projects-Dataset(EXCEL AND POWER BI)
 
 Este es un proyecto en el que se analiza si el hecho de que las personas tengan bicicleta influye en algo en particular como la distancia a donde se desplazan diariamente, se utiliza excel para la limpieza y procesamiento de datos y Power Bi para la vizualizacion, en el archivo de PDF se encuentra todo el paso a paso realizado
 
